@@ -1,6 +1,8 @@
 package com.git.test;
 
 
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * @author lwh
@@ -9,7 +11,7 @@ package com.git.test;
 
 public class Test1 {
     public static void main(String[] args) {
-        System.out.println(args);
+        List<Integer> list = new ArrayList();
     }
 
     public void test(){
