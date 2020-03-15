@@ -1,6 +1,7 @@
 package com.git.test;
 
 
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -11,7 +12,7 @@ import java.util.List;
 
 public class Test1 {
     public static void main(String[] args) {
-        List<Integer> list = new ArrayList();
+        List<String> list = new ArrayList<>();
     }
 
     public void test(){
