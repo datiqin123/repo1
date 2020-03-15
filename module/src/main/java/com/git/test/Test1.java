@@ -9,12 +9,6 @@ package com.git.test;
 
 public class Test1 {
     public static void main(String[] args) {
-        try {
-
-        } catch (Exception e) {
-            e.printStackTrace();
-        } finally {
-
-        }
+        System.out.println(args);
     }
 }
