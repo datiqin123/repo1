@@ -1,5 +1,8 @@
 package com.git.test;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @author lwh
  * @create 2020-03-15 17:14
@@ -7,9 +10,12 @@ package com.git.test;
 
 public class Test1 {
     public static void main(String[] args) {
+        try {
 
-        System.out.println(1111);
-        System.out.println(args);
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
 
+        }
     }
 }
