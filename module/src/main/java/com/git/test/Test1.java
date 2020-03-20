@@ -14,7 +14,7 @@ public class Test1 {
     public static void main(String[] args) {
         List<String> list = new ArrayList();
         System.out.println(list);
-        System.out.println("最后的测试");
+        System.out.println("要删除吗");
     }
 
     public void test(){
