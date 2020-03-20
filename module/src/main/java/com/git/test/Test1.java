@@ -18,7 +18,7 @@ public class Test1 {
     }
 
     public void test(){
-        List<String> list = new ArrayList();
         System.out.println(11);
+        List<Integer> list = new ArrayList();
     }
 }
