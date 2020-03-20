@@ -12,7 +12,9 @@ import java.util.List;
 
 public class Test1 {
     public static void main(String[] args) {
-        List<Integer> list = new ArrayList();
+        List<String> list = new ArrayList();
+        System.out.println(list);
+        System.out.println("-------");
     }
 
     public void test(){
