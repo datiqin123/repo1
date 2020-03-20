@@ -15,7 +15,6 @@ public class Test1 {
         List<String> list = new ArrayList();
         System.out.println(list);
         System.out.println("-------");
-        List<String> list1 = new ArrayList();
     }
 
     public void test(){
